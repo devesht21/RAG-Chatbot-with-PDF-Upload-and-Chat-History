@@ -1,7 +1,7 @@
 
 # RAG-Chatbot-with-PDF-Upload-and-Chat-History
 
-This project is a Streamlit application that allows users to upload PDF files and ask questions about their content. The application leverages the Langchain framework, Groq API, and a history-aware retriever to maintain chat history and provide contextually accurate answers.
+This project is a Streamlit application that allows users to upload PDF files and ask questions about their content. The application leverages the Langchain framework, Gemma 2, Groq API, and a history-aware retriever to maintain chat history and provide contextually accurate answers.
 
 You can check the live project [here](https://rag-chatbot-with-pdf-upload-and-chat-history.streamlit.app/)
 
