@@ -7,4 +7,5 @@ python-dotenv
 sentence_transformers
 faiss-cpu
 langchain-text-splitters
+langchain-huggingface
 pypdf
